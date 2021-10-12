@@ -1,7 +1,7 @@
 h1 {
   font-style: italic;
   text-align: center;
-  color: rgb(139, 134, 134);
+  color: #ffffe0c9;
   font-weight: 900;
   line-height: 10px;
 }
@@ -72,7 +72,7 @@ footer {
   font-size: 20px;
   text-align: center;
   background-color: rgb(122, 190, 236);
-  color: rgb(139, 134, 134);
+  color: #ffffe0c9;
   padding: 5px 0 15px 15px;
 }
 
