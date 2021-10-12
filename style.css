@@ -10,7 +10,7 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 20%;
 }
 
 header {
@@ -28,11 +28,6 @@ header h2{
 
 header div{
   border: 5px solid #668284;
-}
-
-img {
-  width: 50%;
-  height: 50%;
 }
 
 main {
