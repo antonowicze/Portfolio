@@ -33,7 +33,7 @@ header h2{
 }
 
 header div{
-  border: 5px solid #668284;
+  border: 5px double #668284;
 }
 
 main {
@@ -73,8 +73,5 @@ footer {
   text-align: center;
   background-color: rgb(122, 190, 236);
   color: #ffffe0c9;
-  padding: 5px 0 15px 15px;
+  padding: 5px 15px;
 }
-
-
-
